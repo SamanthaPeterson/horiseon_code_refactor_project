@@ -1,4 +1,4 @@
-
+ /*  * = universal selector, it will basically catch all */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -196,6 +196,7 @@ p {
     text-align: center;
 }
 
+/* used on line 76 - determines footer font size in pixles */
 .footer h2 {
     font-size: 20px;
 }
