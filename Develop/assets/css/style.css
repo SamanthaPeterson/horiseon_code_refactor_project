@@ -6,7 +6,7 @@
 }
 
 /*  this color selected below is going to be the background color, but it is also a lower or lowest priority color since it is highest on the list */
-*body {
+body {
     background-color: #d9dcd6;
 }
 
@@ -17,17 +17,17 @@
     color: #ffffff;
 }
 
-.header h1 {
+.header h1{
     display: inline-block;
     font-size: 48px;
 }
+/* */
 
-/* seo means Search Engine Optimization */
 .header h1 .seo {
     color: #d9dcd6;
 }
 /* Changed the three below from divs to nav in html then came over to css to connect them */
-.header nav {
+.header .nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,11 +35,11 @@
     font-size: 20px;
 }
 
-.header nav ul {
+.header .nav ul {
     list-style-type: none;
 }
 /*  these two are talking about lists and the way they are styled/organized */
-.header nav ul li {
+.header .nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -53,13 +53,19 @@ p {
     font-size: 16px;
 }
 
-.header {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
