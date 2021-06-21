@@ -34,7 +34,7 @@ Here I refer to clean coding.  What a pain to work through so many divs. Why not
 be more precise the first time? I will never use a div again if I can help it. 
  
 Website Home Page
-file:///Users/samanthapeterson/Desktop/projects/horiseon_code_refactor_project/horiseon_code_refactor_project/Develop/index%20copy.html
+file:///Users/samanthapeterson/Desktop/projects/horiseon_code_refactor_project/horiseon_code_refactor_project/Develop/index.html
 
 
 Git Hub Project Homepage
