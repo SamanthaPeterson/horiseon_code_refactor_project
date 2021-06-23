@@ -1,26 +1,44 @@
 # horiseon_code_refactor_project
-horiseon_code_refactor_project
-HTML CSS Git Challenge: Horiseon Code Refactor Project README.md
+HTML CSS Git Challenge: Horiseon Code Refactor Project
+README.md
 
 Project Documentation
 
-This project was my first introduction to HTML, CSS, and Git.
+This project is an introduction to HTML, CSS, and Git. 
 
-The purpose: To practice real world examples of potential web development situations. There is a strong focused on semantic elements, accessibility, and a “when-then” type rubric and scenario.
+The purpose:
+To practice real-world examples of potential web development situations. 
+There is a solid focus on semantic elements, accessibility, and a "when-then" type rubric and scenarios. 
 
-The challenge: Take exsisting starter code made up of many divs. (AKA Div soup) Refactor what was given, without losing the intgrity of the site. Gain and keep a focus on attributes of assesibility.
+The challenge:
+Take existing starter code made up of many divs (AKA Div soup) 
+Furthermore, refactor the provided CSS and HTML code. Refactoring without losing the site's integrity while gaining and keeping a focus on attributes of accessibility. 
 
-What was gained This was a helpful project for me. I am very new to coding, and this was a week of reading, confusion, more reading, studding, office hours asking questions, and then just making so many mistakes over hours and hours until finally things clicked. They didn't come all at once. I realize the best way to learn is definitely by doing and by making a ton of mistakes. I can apply myself so much, it really comes down to doing, making a mistake, reading, another mistake, typing, google, then opps- another mistake. Lightbulb. Victory. Then do it all again.
+The experience: 
+This project was challenging.  Coming from a background without previous coding experience before starting this course, this was a week of reading, confusion, office hours, asking questions, and then just making so many mistakes over hours and hours until finally, things clicked. They did not come all at once. An excellent way to learn is by doing and sometimes by learning from the mistakes we make as we go. So it comes down to doing, going to class and office hours, watching videos, making many mistakes, searching for answers, reading, googling, looking at other references, chatting with friends or classmates, going to meet-ups, and making mock-ups. Lightbulb. Victory. Then do it all again. 
 
-In a real-world example this project would be so applicable for a few reasons. A friend of mine who works as a programmer told me that he sees when then type requests at his work. He isn't a web developer but i could tell he appreciated that this was something our rubric mimicked. I appreciate that this cultivates an early consideration for accessibility in web development. If it was my family member or myself wanting or needing this information, I wouldn't want to be at a disadvantage because i couldn’t have access. I have taken for granted the fact that I have never really had to think about screen readers or other forms of help that someone may need. I would also as an employee never want to cause any type of legal issue at my work for failing to do a good job.
+Realworld applications:	
+In a real-world example, this project would be applicable for the following reasons. 
+The when-then scenario follows a typical request found in work environments for web development.  
+He appreciated that our rubric mimicked this. 
+Refactoring code with an eye towards semantics, so that screen readers could better process information cultivates an early consideration for accessibility in web development. 
+Everyone deserves access to information and should not be at a disadvantage due to a disability. Especially true for an oversite by an employee or web developer failing to be aware of correct rules, syntax, hurry, and laziness. That affects the folks who want access to information. For employees and employers who fail to meet standards of assessability, there can be negative repercussions, including fines.
 
-A big take away learned: Why not just do all of this right the first time....? Here I refer to clean coding. What a pain to work through so many divs. Why not try to be more precise the first time? I will never use a div again if I can help it.
+Takeaways and Lessons Learned: 
+Not being familiar with best practices in the industry, refactoring code seems to be much more of a hassle to a web developer than creating the cleanest code from the start. Using divs or unsemantic code seems like an unnecessary hassle. Making several mistakes and not understanding why things were working the way intended also instilled a greater understanding of mock-ups. Visually connections can be created between lines of code and what they represent. This project sped up once pen and paper came out. Boxes were sketched sections helping to solve the code of what alternate meaning the divs could have. They may not have been the final result, but they helped bring about solutions and sift through chaos. A mock-up is a great way to visualize an end goal instead of hoping the code typed works out in the end.
+ 
+Website Home Page
 
-Website Home Page file:///Users/samanthapeterson/Desktop/projects/horiseon_code_refactor_project/horiseon_code_refactor_project/Develop/index.html
 
-Git Hub Project Homepage https://github.com/SamanthaPeterson/horiseon_code_refactor_project
 
-Samantha Peterson github https://github.com/SamanthaPeterson
+Git Hub Project Homepage
+https://github.com/SamanthaPeterson/horiseon_code_refactor_project
 
-Linkedin www.linkedin.com/in/samantha-peterson-web-developer-photographer
+
+ Samantha Peterson 
+ github
+ https://github.com/SamanthaPeterson
+
+ Linkedin
+www.linkedin.com/in/samantha-peterson-web-developer-photographer
 
