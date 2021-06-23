@@ -213,3 +213,7 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+
+article #span {
+    padding-top: initial;
+}
