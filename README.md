@@ -28,7 +28,7 @@ Takeaways and Lessons Learned:
 Not being familiar with best practices in the industry, refactoring code seems to be much more of a hassle to a web developer than creating the cleanest code from the start. Using divs or unsemantic code seems like an unnecessary hassle. Making several mistakes and not understanding why things were working the way intended also instilled a greater understanding of mock-ups. Visually connections can be created between lines of code and what they represent. This project sped up once pen and paper came out. Boxes were sketched sections helping to solve the code of what alternate meaning the divs could have. They may not have been the final result, but they helped bring about solutions and sift through chaos. A mock-up is a great way to visualize an end goal instead of hoping the code typed works out in the end.
  
 Website Home Page
-file:///Users/samanthapeterson/Desktop/projects/horiseon_code_refactor_project/horiseon_code_refactor_project/Develop/index.html
+https://samanthapeterson.github.io/horiseon_code_refactor_project/Develop/
 
 
 Git Hub Project Homepage
